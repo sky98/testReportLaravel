@@ -5,7 +5,7 @@
 use App\Models\ActivityReport;
 use Faker\Generator as Faker;
 
-$factory->define(ActivityReport::class, function (Faker $faker) {
+$factory->define(User::class, function (Faker $faker) {
     return [
         //
     ];
